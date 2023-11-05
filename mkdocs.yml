@@ -1,0 +1,8 @@
+site_name: "EightApi"
+site_description: "EightApi"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
